@@ -13,7 +13,7 @@ import {
   Pie,
   Cell
 } from "recharts";
-import logo from "../src/msb.png";
+import logo from "./msb.png";
 
 const data = [
   { month: "Jun 2022", Milk: 5000, Buttermilk: 1500, Curd: 2500, FlavoredMilk: 800, Cowdung: 300 },
